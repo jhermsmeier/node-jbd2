@@ -1,0 +1,36 @@
+{
+  "name": "jbd2",
+  "version": "0.0.0",
+  "description": "An implementation of the JBD2 journalling layer as used in ext3, ext4, and OCFS2",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
+  "keywords": [
+    "jbd",
+    "jbd2",
+    "ext3",
+    "ext4",
+    "ocfs2",
+    "linux",
+    "fs",
+    "filesystem",
+    "journal",
+    "blockdevice",
+    "block",
+    "device",
+    "journaling"
+  ],
+  "main": "lib/journal.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "homepage": "https://github.com/jhermsmeier/node-jbd2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-jbd2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-jbd2/issues"
+  }
+}
