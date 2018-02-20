@@ -20,9 +20,13 @@
     "journaling"
   ],
   "main": "lib/journal.js",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  },
   "peerDependencies": {},
   "optionalDependencies": {},
   "homepage": "https://github.com/jhermsmeier/node-jbd2",
