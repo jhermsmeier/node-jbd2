@@ -14,7 +14,7 @@ $ npm install --save jbd2
 
 ## Used by
 
-- **[jhermsmeier](https://github.com/jhermsmeier) / [ext4](https://github.com/jhermsmeier/node-ext4)**, an implementation of the ext4 file system in JavaScript
+- **[jhermsmeier](https://github.com/jhermsmeier) / [node-ext4](https://github.com/jhermsmeier/node-ext4)**, an implementation of the ext4 file system in JavaScript
 
 ## Usage
 
