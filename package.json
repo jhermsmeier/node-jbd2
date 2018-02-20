@@ -1,6 +1,6 @@
 {
   "name": "jbd2",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An implementation of the JBD2 journalling layer as used in ext3, ext4, and OCFS2",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
   "license": "MIT",
